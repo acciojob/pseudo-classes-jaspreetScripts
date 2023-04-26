@@ -3,7 +3,7 @@ html{
 	background-color:skyblue;
 }
 div p:first-child{
-	color:white;
+	color:rgb(0, 0, 0);
 	background-color:black;
 }
 div p:last-child{
