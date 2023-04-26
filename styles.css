@@ -1,13 +1,13 @@
 /*  your css code here. If applicable */
-body{
+html{
 	background-color:skyblue;
 }
 div p:first-child{
-	background-color:black;
 	color:white;
+	background-color:black;
 }
 div p:last-child{
-	color:red;
+	color:rgb(255, 0, 0);
 }
 div li:nth-child(2n-1){
 	background-color:white;
